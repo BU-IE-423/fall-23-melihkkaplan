@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Melih Kocakaplan's IE 423 Page for Fall 23
 
 [IE 423 Project Part 1 Report](REPORT IE423 Project Part 1.html) 
 
