@@ -8,5 +8,4 @@
 
 [IE 423 Project Part 2 Code + Report - HTML](IE 423 Project Part 2.html)
 
-[IE 423 Project Part 2 Code + Report - ipynb](IE 423 Project Part 2.ipynb)
-z
+[IE 423 Project Part 2 Code + Report - ipynb](IE 423 Project Part 2.ipynb)
