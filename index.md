@@ -9,3 +9,5 @@
 [IE 423 Project Part 2 Code + Report - HTML](IE 423 Project Part 2.html)
 
 [IE 423 Project Part 2 Code + Report - ipynb](IE 423 Project Part 2.ipynb)
+
+[IE 423 Project Part 3 - Report](IE423 PROJECT PART 3/projectpart3.html)
